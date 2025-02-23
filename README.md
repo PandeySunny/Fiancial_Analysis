@@ -1,6 +1,3 @@
-Here's a **README** file for your GitHub repository:  
-
----
 
 ## **Power BI Financial Dashboard**  
 
@@ -71,5 +68,3 @@ The dataset used in this dashboard comes from **Finance_Data.xlsx**, which inclu
 Feel free to contribute by opening a pull request or submitting feedback via issues!  
 
 ---
-
-Would you like to include screenshots or example charts in the README? I can help format them! 🚀
